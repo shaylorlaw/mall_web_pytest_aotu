@@ -1,0 +1,16 @@
+[2021-11-25 15:18:11,731] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', '//input[@id="username"]')可见
+[2021-11-25 15:18:11,775] basepage.py->wait_eleVisible line:42 [INFO]登录页面_登录功能:元素('xpath', '//input[@id="username"]')可见，等待开始时间：2021-11-25 15:18:11.733346，等待结束时间：2021-11-25 15:18:11.775348，等待结束，等待时长为：0
+[2021-11-25 15:18:11,776] basepage.py->get_element line:58 [INFO]登录页面_登录功能查找元素：('xpath', '//input[@id="username"]')
+[2021-11-25 15:18:11,788] basepage.py->input_text line:97 [INFO]登录页面_登录功能：元素：('xpath', '//input[@id="username"]')输入内容：carisok1046
+[2021-11-25 15:18:11,881] basepage.py->get_element line:58 [INFO]登录页面_登录功能查找元素：('xpath', '//input[@id="password"]')
+[2021-11-25 15:18:11,898] basepage.py->input_text line:97 [INFO]登录页面_登录功能：元素：('xpath', '//input[@id="password"]')输入内容：123456
+[2021-11-25 15:18:11,975] basepage.py->get_element line:58 [INFO]登录页面_登录功能查找元素：('xpath', '//button[@class="login-btn login-btn1"]')
+[2021-11-25 15:18:11,992] basepage.py->click_element line:83 [INFO]登录页面_登录功能点击元素：('xpath', '//button[@class="login-btn login-btn1"]')
+[2021-11-25 15:23:13,272] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', '//input[@id="username"]')可见
+[2021-11-25 15:23:13,307] basepage.py->wait_eleVisible line:42 [INFO]登录页面_登录功能:元素('xpath', '//input[@id="username"]')可见，等待开始时间：2021-11-25 15:23:13.273593，等待结束时间：2021-11-25 15:23:13.307595，等待结束，等待时长为：0
+[2021-11-25 15:23:13,308] basepage.py->get_element line:58 [INFO]登录页面_登录功能查找元素：('xpath', '//input[@id="username"]')
+[2021-11-25 15:23:13,318] basepage.py->input_text line:97 [INFO]登录页面_登录功能：元素：('xpath', '//input[@id="username"]')输入内容：carisok1046
+[2021-11-25 15:23:13,391] basepage.py->get_element line:58 [INFO]登录页面_登录功能查找元素：('xpath', '//input[@id="password"]')
+[2021-11-25 15:23:13,406] basepage.py->input_text line:97 [INFO]登录页面_登录功能：元素：('xpath', '//input[@id="password"]')输入内容：123456
+[2021-11-25 15:23:13,469] basepage.py->get_element line:58 [INFO]登录页面_登录功能查找元素：('xpath', '//button[@class="login-btn login-btn1"]')
+[2021-11-25 15:23:13,483] basepage.py->click_element line:83 [INFO]登录页面_登录功能点击元素：('xpath', '//button[@class="login-btn login-btn1"]')

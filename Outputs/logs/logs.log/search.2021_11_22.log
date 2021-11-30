@@ -1,0 +1,158 @@
+[2021-11-22 09:52:30,012] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 09:53:00,230] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 09:53:00,516] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-09-53-00.png
+[2021-11-22 11:46:41,914] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 11:47:12,083] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 11:47:12,348] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-11-47-12.png
+[2021-11-22 11:47:27,249] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 11:47:57,375] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 11:47:57,655] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-11-47-57.png
+[2021-11-22 11:48:11,950] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 11:48:42,095] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 11:48:42,357] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-11-48-42.png
+[2021-11-22 11:48:56,805] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 11:49:27,052] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 11:49:27,307] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-11-49-27.png
+[2021-11-22 11:49:41,317] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 11:50:11,415] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 11:50:11,666] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-11-50-11.png
+[2021-11-22 11:50:26,494] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 11:50:56,852] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 11:50:57,107] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-11-50-56.png
+[2021-11-22 11:51:11,359] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 11:51:41,807] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 11:51:42,060] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-11-51-41.png
+[2021-11-22 14:51:24,553] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 14:51:54,594] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 14:51:54,988] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-14-51-54.png
+[2021-11-22 14:52:09,536] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 14:52:39,873] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 14:52:40,059] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-14-52-39.png
+[2021-11-22 14:52:54,222] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 14:53:24,610] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 14:53:24,839] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-14-53-24.png
+[2021-11-22 14:53:39,667] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 14:54:09,732] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 14:54:10,009] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-14-54-09.png
+[2021-11-22 14:54:24,527] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 14:54:54,699] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 14:54:55,012] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-14-54-54.png
+[2021-11-22 14:55:08,916] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 14:55:39,399] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 14:55:39,764] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-14-55-39.png
+[2021-11-22 14:55:54,388] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', ' // a[text() = "退出登录"]')可见
+[2021-11-22 14:56:24,691] basepage.py->wait_eleVisible line:45 [ERROR]等待元素可见失败！
+Traceback (most recent call last):
+  File "D:\Programs\PythonFile\web\Common\basepage.py", line 37, in wait_eleVisible
+    WebDriverWait(self.driver,wait_times,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "D:\Program Files\python3.6\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[2021-11-22 14:56:24,991] basepage.py->save_screenshot line:174 [INFO]截取网页成功，图片路径为：D:\Programs\PythonFile\web\Outputs/screenshots/登录页面_登录功能_2021-11-22-14-56-24.png
+[2021-11-22 16:11:17,372] basepage.py->wait_eleVisible line:33 [INFO]等待元素('xpath', '//input[@id="username"]')可见
+[2021-11-22 16:11:17,412] basepage.py->wait_eleVisible line:42 [INFO]登录页面_登录功能:元素('xpath', '//input[@id="username"]')可见，等待开始时间：2021-11-22 16:11:17.373255，等待结束时间：2021-11-22 16:11:17.412257，等待结束，等待时长为：0
+[2021-11-22 16:11:17,413] basepage.py->get_element line:58 [INFO]登录页面_登录功能查找元素：('xpath', '//input[@id="username"]')
+[2021-11-22 16:11:17,427] basepage.py->input_text line:97 [INFO]登录页面_登录功能：元素：('xpath', '//input[@id="username"]')输入内容：carisok1046
+[2021-11-22 16:11:17,523] basepage.py->get_element line:58 [INFO]登录页面_登录功能查找元素：('xpath', '//input[@id="password"]')
+[2021-11-22 16:11:17,543] basepage.py->input_text line:97 [INFO]登录页面_登录功能：元素：('xpath', '//input[@id="password"]')输入内容：123456
+[2021-11-22 16:11:17,623] basepage.py->get_element line:58 [INFO]登录页面_登录功能查找元素：('xpath', '//button[@class="login-btn login-btn1"]')
+[2021-11-22 16:11:17,639] basepage.py->click_element line:83 [INFO]登录页面_登录功能点击元素：('xpath', '//button[@class="login-btn login-btn1"]')
